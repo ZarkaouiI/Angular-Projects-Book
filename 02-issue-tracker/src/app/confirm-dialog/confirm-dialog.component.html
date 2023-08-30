@@ -1,0 +1,12 @@
+<clr-modal [clrModalOpen]="issueNo !== null" [clrModalClosable]="false">
+    <h3 class="modal-title">
+        Resolve Issue #{{issueNo}}
+    </h3>
+    <div class="modal-body">
+        <p>Are you sure you want to mark this issue as resolved ?</p>
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-outline" (click)="disagree()" type="button">Cancel</button>
+        <button class="btn btn-danger" (click)="agree()" type="button">Mark as Resolved</button>
+    </div>
+</clr-modal>

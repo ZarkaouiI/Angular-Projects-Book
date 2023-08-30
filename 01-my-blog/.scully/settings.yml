@@ -1,0 +1,12 @@
+identifier: l3l5o0c8n9ubecc5
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: /media/zarkaoui/0826CB8726CB73EA/angular/angular-projects-book/my-blog
+distFolder: dist/my-blog
+outDir: >-
+  /media/zarkaoui/0826CB8726CB73EA/angular/angular-projects-book/my-blog/dist/static
+handle404: ''
+allowErrorCollect: false
