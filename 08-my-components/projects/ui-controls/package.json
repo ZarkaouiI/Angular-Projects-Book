@@ -1,0 +1,14 @@
+{
+  "name": "zi-controls",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^16.0.0",
+    "@angular/core": "^16.0.0",
+    "@angular/cdk": "^16.2.5",
+    "bulma": "^0.9.4"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
